@@ -76,6 +76,6 @@ $
 
 ## Authors
   
-* [Bryan Somtochukwu](https://github.com/bryansomto)
-* [BRIDGET IZBA](https://github.com/misschiiff) 
+* [Akindele Oyindamola](https://github.com/Hoyeander)
+ 
 
